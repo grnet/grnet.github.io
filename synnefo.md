@@ -4,10 +4,11 @@ layout: default
 
 # Synnefo
 
-The [Synnefo Open Source Cloud Software](www.synnefo.org)
+The [Synnefo Open Source Cloud Software](https://www.synnefo.org)
 repositories:
 
 * [synnefo](https://github.com/grnet/synnefo)
+* [snf-ui-app](https://github.com/grnet/snf-ui-app)
 * [devflow](https://github.com/grnet/devflow)
 * [snf-occi](https://github.com/grnet/snf-occi)
 * [snf-image](https://github.com/grnet/snf-image)
