@@ -11,6 +11,7 @@ repositories:
 * [devflow](https://github.com/grnet/devflow)
 * [snf-occi](https://github.com/grnet/snf-occi)
 * [snf-image](https://github.com/grnet/snf-image)
+* [snf-image-creator](https://github.com/grnet/snf-image-creator)
 * [snf-network](https://github.com/grnet/snf-network)
 * [snf-nfdhcpd](https://github.com/grnet/snf-nfdhcpd)
 * [e-science](https://github.com/grnet/e-science)
